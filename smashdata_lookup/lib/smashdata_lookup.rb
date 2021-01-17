@@ -1,0 +1,6 @@
+require_relative "./smashdata_lookup/version"
+require_relative "./smashdata_lookup/cli"
+require_relative "./smashdata_lookup/player"
+require_relative "./smashdata_lookup/scraper"
+require "nokogiri"
+require "open-uri"
